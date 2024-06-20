@@ -277,4 +277,4 @@ const footerAPI = {
 };
 
 
-export { heroapi, footerAPI, story, sneaker, highlight, toprateslaes, popularsales };
+export { heroapi, footerAPI, sneaker, highlight, toprateslaes, popularsales };
